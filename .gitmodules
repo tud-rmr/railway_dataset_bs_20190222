@@ -1,0 +1,8 @@
+[submodule "_fcns"]
+	path = _fcns
+	url = git@github.com:tud-rmr/railway_dataset_fcns.git
+	branch = master
+[submodule "02_ekfFusion/_Ekf_Fcns"]
+	path = 02_ekfFusion/_Ekf_Fcns
+	url = git@github.com:tud-rmr/railway_ekf_fusion_fcns.git
+	branch = master

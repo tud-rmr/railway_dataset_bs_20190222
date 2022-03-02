@@ -1,0 +1,10 @@
+# Folders
+slprj/
+/cache/
+/test/
+
+# Files
+Thumbs.db
+*.slxc
+*.mex*
+*.mdl.*
